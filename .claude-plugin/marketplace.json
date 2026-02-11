@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "stigg",
-      "source": ".",
+      "source": "./",
       "description": "AI skills for working with the Stigg monetization platform — product catalog management, docs reference, and more",
       "version": "0.1.0",
       "author": {
