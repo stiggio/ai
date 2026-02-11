@@ -1,10 +1,12 @@
 {
   "name": "stigg",
-  "description": "Stigg development plugin for Claude",
+  "description": "AI skills for working with the Stigg monetization platform — product catalog management, docs reference, and more",
   "version": "1.0.0",
   "author": {
     "name": "Stigg"
   },
   "homepage": "https://stigg.io",
+  "repository": "https://github.com/stiggio/ai",
+  "license": "MIT",
   "keywords": ["stigg", "monetization", "pricing", "billing", "entitlements"]
 }

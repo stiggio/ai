@@ -23,10 +23,11 @@ skills/
 
 ## Getting Started
 
-Install as a Claude Code plugin:
+Add the marketplace and install the plugin:
 
 ```bash
-claude plugin install <path-or-url>
+/plugin marketplace add stiggio/ai
+/plugin install stigg@stigg
 ```
 
 Once installed, skills are available as `/stigg:<skill-name>` and are also auto-invoked when Claude detects relevant context (e.g. mentions of "stigg", "product catalog", "pricing").

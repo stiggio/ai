@@ -1,0 +1,31 @@
+{
+  "name": "stigg",
+  "owner": {
+    "name": "Stigg"
+  },
+  "metadata": {
+    "description": "AI skills for working with the Stigg monetization platform"
+  },
+  "plugins": [
+    {
+      "name": "stigg",
+      "source": ".",
+      "description": "AI skills for working with the Stigg monetization platform — product catalog management, docs reference, and more",
+      "version": "0.1.0",
+      "author": {
+        "name": "Stigg"
+      },
+      "homepage": "https://stigg.io",
+      "repository": "https://github.com/stiggio/ai",
+      "license": "MIT",
+      "keywords": [
+        "stigg",
+        "monetization",
+        "pricing",
+        "billing",
+        "entitlements"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
