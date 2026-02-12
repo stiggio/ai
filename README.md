@@ -1,4 +1,4 @@
-# ai
+# Stigg AI
 
 A collection of AI tools — skills, MCP servers, and agents — for working with [Stigg](https://stigg.io).
 
